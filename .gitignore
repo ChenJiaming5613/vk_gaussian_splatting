@@ -6,3 +6,7 @@ _autogen/
 _benchmark*/
 _downloaded_resources/
 generated/
+
+.idea/
+.vs/
+.vscode/
